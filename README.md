@@ -1,3 +1,3 @@
 # SoftEng2025
 
-A Git repository for exercices from the ENSG Softaware Engineering courses.
+A Git repository for exercices from the ENSG Software Engineering courses.
