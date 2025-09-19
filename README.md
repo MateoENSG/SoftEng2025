@@ -1,7 +1,7 @@
 # SoftEng2025
 
 A Git repository for exercices from the ENSG (Nancy School of Geology) Software Engineering courses.
-![logo de l'ENSG]()
+![logo de l'ENSG](./logo_Ecole.png)
 
 # Description
 
