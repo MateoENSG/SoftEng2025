@@ -1,4 +1,3 @@
-#CMakeLists tests
 #add the test target
 add_executable(test_hello test-hello.cpp)
 target_link_libraries(test_hello PUBLIC basic)
