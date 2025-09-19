@@ -1,6 +1,6 @@
 # SoftEng2025
 
-A Git repository for exercices from the ENSG Software Engineering courses.
+A Git repository for exercices from the ENSG (Nancy School of Geology) Software Engineering courses.
 
 # Description
 
@@ -14,3 +14,7 @@ This project is constructed using CMake.
 
 By downloading the package and source code, you are able to use the .bat scripts allowing you to 
 build the project and then run some basic tests.
+
+# Author
+
+BONTEMPS--RODRIGUES Matéo
