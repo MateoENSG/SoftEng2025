@@ -17,7 +17,7 @@ This project is constructed using CMake.
 By downloading the package and source code, you are able to use the .bat scripts allowing you to 
 build the project and then run some basic tests.
 
-# Key-Words
+# KeyWords
 * CMake
 * C++
 * .bat
