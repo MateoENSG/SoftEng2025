@@ -1,9 +1,9 @@
 #pragma once
-#include <iostream>
 #include <HelloProjectConfig.h>
+#include <iostream>
 
-//print of the word "Hello"
+// print of the word "Hello"
 void hello_world();
 
-//print of the version
+// print of the version
 void print_version();

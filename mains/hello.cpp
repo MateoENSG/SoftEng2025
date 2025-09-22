@@ -2,7 +2,7 @@
 
 int main()
 {
-	hello_world();
-	print_version();
-	return 0;
+    hello_world();
+    print_version();
+    return 0;
 }
