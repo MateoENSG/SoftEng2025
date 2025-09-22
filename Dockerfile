@@ -13,6 +13,7 @@ COPY . SoftEng2025Docker
 # /!\ If done on a pc where the project has already been built then the build directory already exist !
 # /!\ This will cause errors. To correct it you need to either delete the original build folder 
 # /!\ Or change the name of the "build" folder you are creating in the container => what I did here with "Dbuild".
+# /!\ There is also the possibility of making a .dockerignore file...
 
 # Create building directory
 RUN mkdir SoftEng2025Docker/Dbuild
