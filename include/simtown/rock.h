@@ -1,4 +1,4 @@
-s#ifndef rock_h
+#ifndef rock_h
 #define rock_h
 #include <iostream>
 
