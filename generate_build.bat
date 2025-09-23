@@ -5,3 +5,4 @@ cd Build
 cmake ..
 cmake --build . Debug
 cd ..
+pause 
